@@ -8,6 +8,7 @@ The **input data** are:
 - the topology of each branch of the water supply, and the topography of the path
 - the basic data about the borehole or the spring
 - the list of pipes and hydraulic hardware which is locally available
+
 The **output data** are:
 - water flows and cost of each branch
 - the sensitivity analysis between water flow and investment costs
@@ -18,24 +19,24 @@ The **output data** are:
 Through a web app which is tailored for humanitarian interventions and non-professionals deployed in the field by humanitarian and development agencies
 
 Who may benefit from the computer software?
-- Donors (such as the United Nations, Embassies) may check through the web app those project proposals which allow more interesting and make the best use of available money
-- The non-governmental organizations personnel, that may present their projects through the web app and gain merit or ask for help by sharing online their project proposals in case of particularly difficult project designs
+- Donors (such as the **United Nations, Embassies**) may check through the web app those project proposals which allow more interesting and make the best use of available money
+- The **non-governmental organizations personnel**, that may present their projects through the web app and gain merit or ask for help by sharing online their project proposals in case of particularly difficult project designs
 
 
 
 ## Where it may result useful this web app?
 - Water supply system for **humanitarian/development purposes of local communities**; examples would be villages scattered in Himalayan valleys, in the Andes or in the region of the Great Lakes in Africa.
-  - Typically, deep valley profiles and all situations where pipe pressures require to make water flow by gravity through valleys and surpass hills.
+  - _Typically_, deep valley profiles and all situations where pipe pressures require to make water flow by gravity through valleys and surpass hills.
 - Small rural water supplies for scattered human settlements and farms such as those in rural United States or in the Australian outback.
-  - Typically, adoption of dispacement pumps coupled to diesel engines
+  - _Typically_, adoption of dispacement pumps coupled to diesel engines
 - Small irrigated fields owned by a family
-  - Typically, in south east Asia, where optimizing the cost of lifting water from a  borehole is fundamental to run for a family to run its plot of irrigated land.
+  - _Typically_, in south east Asia, where optimizing the cost of lifting water from a  borehole is fundamental to run for a family to run its plot of irrigated land.
 
 
 ## Does this web app mimic other products?
 No, so far this web app is unique. There are no specific rural computer software packages.
 The web app deals with specific hydraulic hardware solutions for rural environments:
-Rural water supply systems differ markedly from urban schemes in that:
+Rural water supply systems **differ markedly from urban schemes** since:
 - they present a tree topology, they are not networks
 - they adopt small size pipes which result in higher incidence of hydraulic friction
 - They allow more wiggle room in deciding water flows since there are no requirements of redundancy, fire flow allowances and control of water age
