@@ -29,12 +29,12 @@ Contributions are welcome in the following aspects of the software:
 
 Claudio Finizio, is the owner of the project and welcomes anybody with an interest in humanitarian development, and specifically in the optimization of engineering systems to make the most of the limited financial resources.
 
-*A short bio of Claudio
-Claudio is a chartered engineer who worked overseas in human development in Africa and the Middle East.
+_A short bio of Claudio  _
+Claudio is a chartered engineer who worked overseas in human development in Africa and the Middle East._
 
-*He has 12 years of experience in water supply and sanitation and is currently working as freelancer on developing a computer software package to optimize the design of small rural water supplies. He was member of American Water Works Association and International Water Association.
+_He has 12 years of experience in water supply and sanitation and is currently working as freelancer on developing a computer software package to optimize the design of small rural water supplies. He was member of American Water Works Association and International Water Association._
 
-*Aside competency in water supply, Claudio also brings 5 years of experience dealing with public administration. Recruited by the United Nations and later by the World Bank in Mauritania, he was primarily involved analysis of financial aid and performance of Ministries. He then contributed conceiving and delivering the online progress monitoring system for World Bank Romania Country Office.
+_Aside competency in water supply, Claudio also brings 5 years of experience dealing with public administration. Recruited by the United Nations and later by the World Bank in Mauritania, he was primarily involved analysis of financial aid and performance of Ministries. He then contributed conceiving and delivering the online progress monitoring system for World Bank Romania Country Office._
 
-*Previously he served non-governmental organizations in Tanzania, Afghanistan desert and in Palestinian refugees’ camps. He worked in isolated areas for prolonged periods.
+_Previously he served non-governmental organizations in Tanzania, Afghanistan desert and in Palestinian refugees’ camps. He worked in isolated areas for prolonged periods._
 
