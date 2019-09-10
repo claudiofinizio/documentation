@@ -29,7 +29,7 @@ Contributions are welcome in the following aspects of the software:
 
 Claudio Finizio, is the owner of the project and welcomes anybody with an interest in humanitarian development, and specifically in the optimization of engineering systems to make the most of the limited financial resources.
 
-_A short bio of Claudio  _
+_A short bio of Claudio_  
 Claudio is a chartered engineer who worked overseas in human development in Africa and the Middle East._
 
 _He has 12 years of experience in water supply and sanitation and is currently working as freelancer on developing a computer software package to optimize the design of small rural water supplies. He was member of American Water Works Association and International Water Association._
