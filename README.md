@@ -29,7 +29,7 @@ Contributions are welcome in the following aspects of the software:
 
 Claudio Finizio, is the owner of the project and welcomes anybody with an interest in humanitarian development, and specifically in the optimization of engineering systems to make the most of the limited financial resources.
 
-_A short bio of Claudio  
+_A short bio of Claudio_   
 
 _Claudio is a chartered engineer who worked overseas in human development in Africa and the Middle East._
 
