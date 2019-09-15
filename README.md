@@ -39,3 +39,9 @@ _Aside competency in water supply, Claudio also brings 5 years of experience dea
 
 _Previously he served non-governmental organizations in Tanzania, Afghanistan desert and in Palestinian refugees’ camps. He worked in isolated areas for prolonged periods._
 
+### Timeline and future steps ###
+End of 2019: publication of the source code with tests
+Summer 2020: activation of the web-based user interface
+
+End of 2019: lauching a fund raising campaign to finance the project.
+The fund raising campaign is foreseen if the user itnerface will result too heavy to be programmed only based on free contributions from open source programmers.
