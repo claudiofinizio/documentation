@@ -19,7 +19,7 @@ The **output data** are:
 Through a web app which is tailored for humanitarian interventions and non-professionals deployed in the field by humanitarian and development agencies
 
 Who may benefit from the computer software?
-- Donors (such as the **United Nations, Embassies**) may check through the web app those project proposals which allow more interesting and make the best use of available money
+- Donors (such as the **United Nations, Embassies**) may check through the web app those project proposals which allow more flexible solutions and/or make the best use of available money
 - The **non-governmental organizations personnel**, that may present their projects through the web app and gain merit or ask for help by sharing online their project proposals in case of particularly difficult project designs
 
 
@@ -30,7 +30,7 @@ Who may benefit from the computer software?
 - Small rural water supplies for scattered human settlements and farms such as those in rural United States or in the Australian outback.
   - _Typically_, adoption of dispacement pumps coupled to diesel engines
 - Small irrigated fields owned by a family
-  - _Typically_, in south east Asia, where optimizing the cost of lifting water from a  borehole is fundamental to run for a family to run its plot of irrigated land.
+  - _Typically_, in south east Asia, where optimizing the cost of lifting water from a  borehole is fundamental for a family of farmers to run its plot of irrigated land.
 
 
 ## Does this web app mimic other products?
@@ -39,7 +39,7 @@ The web app deals with specific hydraulic hardware solutions for rural environme
 Rural water supply systems **differ markedly from urban schemes** since:
 - they present a tree topology, they are not networks
 - they adopt small size pipes which result in higher incidence of hydraulic friction
-- They allow more wiggle room in deciding water flows since there are no requirements of redundancy, fire flow allowances and control of water age
+- they allow more wiggle room in deciding water flows since there are no requirements of redundancy, fire flow allowances and control of water age
 - they adopt plastic pipes, whose cost differ markedly according to the pressure in the pipes
 - they draw on gravity force or…
 - …or make use of diesel engines and do not rely on electric power (so, electric pumps are often replaced by rotary pumps).
@@ -47,7 +47,7 @@ Rural water supply systems **differ markedly from urban schemes** since:
 
 
 ## The user interface of the web app
-- Expatriate and local staff of humanitarian organizations often times are not engineers so the user interface will be simplified. The user interface will therefore guide the user throughout the design process:
+- Expatriate and local staff of humanitarian organizations often times are not engineers so the user interface will be simplified with the intent of guiding the user throughout the design process:
 - the projects will reside in a main gallery, much like in a gallery of pictures
   - for each project, the user may experiment changing the various parameters of water demand or pumps and pipes; the web app will update the cost required for such a demand
   - when the user is satisfied with the design just obtained, s/he will “take a snapshot” of the project that will be added to the gallery of project.
