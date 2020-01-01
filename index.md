@@ -3,6 +3,8 @@
 This computer software package designs rural water supply schemes. It was conceived with the humanitarian and development interventions in mind.  <br/><br/>
 See the **demo**: <http://ruralwater.pythonanywhere.com/><br/>
 
+See the [quickstart](quickstart.md)
+
 
 ## What does the computer software solve? ##
 
