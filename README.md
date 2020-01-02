@@ -44,4 +44,4 @@ End of 2019: publication of the source code with tests
 Summer 2020: activation of the web-based user interface
 
 End of 2019: lauching a fund raising campaign to finance the project.
-The fund raising campaign is foreseen if the user itnerface will result too heavy to be programmed only based on free contributions from open source programmers.
+The fund raising campaign is foreseen if the user interface will result too heavy to be programmed only based on free contributions from open source programmers.
