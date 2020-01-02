@@ -29,6 +29,7 @@ You will end up with a number of markers shown on the map.</p>
 <p>Starting from the water source, connect the various markers with a line that represents the trench where you want to lie down the water pipes.
 Notice that the line ‘sticks’ to the markers when you move the mouse near a marker.
 When the line ‘sticks’ to a marker, then you complete drawing the line by <strong>double clicking</strong>.</p>
+<p>Next, you need to select again the ‘line’ marker in the toolbar, and draw another trench. And so on, until you drew all the trenches.</p>
 <p>If needed, you can click along the way, while you draw the line, in order to make your water pipe trench bend.</p>
 <a class="reference internal image-reference" href="_images/polyline-bending1.png"><img alt="" class="align-center" src="_images/polyline-bending1.png" style="width: 800px;" /></a>
 </div>
