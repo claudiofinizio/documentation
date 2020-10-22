@@ -1,6 +1,8 @@
 # Rural Water #
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
+
 
 This computer software package designs rural water supply schemes. 
 It was conceived with the humanitarian and development interventions in mind.  
