@@ -9,7 +9,7 @@ See the **demo**: <http://ruralwater.pythonanywhere.com/> (2019 version)<br/>
 Clone the **repository**: <https://bitbucket.org/ruralwater/ruralwater/><br/> 
 Read the **documentation**: <https://ruralwater.readthedocs.io/en/feature/><br/> 
 
-
+ 
 ## What does the computer software solve? ##
 
 The **input data** are:

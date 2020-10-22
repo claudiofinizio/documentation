@@ -3,7 +3,7 @@
 This is an announcement about a forthcoming computer software package dealing with the hydraulics of **rural** water supply schemes.
 
 ### What is this repository for? ###
-
+ 
 The computer software is capable of finding an optimal sequence of pipes in order to minimize the investments costs.  
 
 This is particularly important given the strong dependency of costs from parameters such as diameters and flows.  
@@ -40,8 +40,9 @@ _Aside competency in water supply, Claudio also brings 5 years of experience dea
 _Previously he served non-governmental organizations in Tanzania, Afghanistan desert and in Palestinian refugees’ camps. He worked in isolated areas for prolonged periods._
 
 ### Timeline and future steps ###
-End of 2019: publication of the source code with tests
+End of 2019: publication of the source code with limited tests
+
 Summer 2020: activation of the web-based user interface
 
-End of 2019: lauching a fund raising campaign to finance the project.
+End of 2020: lauching a fund raising campaign to finance the project.
 The fund raising campaign is foreseen if the user interface will result too heavy to be programmed only based on free contributions from open source programmers.
