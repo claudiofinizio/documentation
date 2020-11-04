@@ -6,6 +6,13 @@ We assume that we know how much water is required at each of the water tanks eve
 
 We want to find the commercial water pipes which will bring the water at the lowest economic cost.
 
+Essentially, you will have to draw three things:
+
+* The marker for the sprng
+* The markers for all the water tanks where you bring the water to users
+* the critical points where you have the ramification of the pipes from the spring 
+  to the various tanks.
+
 ## First step
 
 First, navigate to the [demo](http://ruralwater.pythonanywhere.com/gravity/design/step/0/) You will be prompted with a map.
@@ -14,11 +21,11 @@ First, navigate to the [demo](http://ruralwater.pythonanywhere.com/gravity/desig
 
 Use the mouse to pan and zoom the map in the area of your interest. Here, for illustration purposes, we show the area of ‘Chamkoroma’ in central Tanzania.
 
-![Ooops...! The map is not showing correctly :-(](_images_new/01_the_map.png)
+![Ooops...! The map is not showing correctly :-(](_images/01_the_map.png)
 
 Click on the marker icon in the toolbar.
 
-![Ooops...! The map is not showing correctly :-(](_images_new/02_tools_select_marker.png)
+![Ooops...! The map is not showing correctly :-(](_images/02_tools_select_marker.png)
 
 Place a marker on the position of the spring intake, by clicking on the map.
 
@@ -32,13 +39,13 @@ To this end, click in all points of the map, which correpond either to a reservo
 
 *Remark*: every time you click the marker icon in the toolbar you can place one marker on the map. Then you need to click **again** on the toolbar marker icon to place the following marker on the map.
 
-![Ooops...! The map is not showing correctly :-(](_images_new/03_markers_drawn.png)
+![Ooops...! The map is not showing correctly :-(](_images/03_markers_drawn.png)
 
 ## Second step
 
 Click on the ‘line’ marker in the toolbar.
 
-![Ooops...! The map is not showing correctly :-(](_images_new/04_tools_select_polyline.png)
+![Ooops...! The map is not showing correctly :-(](_images/04_tools_select_polyline.png)
 
 ### What’s happening here
 
@@ -58,13 +65,13 @@ Next, you need to select again the ‘line’ marker in the toolbar, and draw an
 If needed, you can click along the way, while you draw the line, in order to make your water pipe trench bend.
 
 The beginning of the line: 
-![Ooops...! The map is not showing correctly :-(](_images_new/05_polyline_tail_end.png)
+![Ooops...! The map is not showing correctly :-(](_images/05_polyline_tail_end.png)
 
 The ending of the line: 
-![Ooops...! The map is not showing correctly :-(](_images_new/06_polyline_head_end.png)
+![Ooops...! The map is not showing correctly :-(](_images/06_polyline_head_end.png)
 
 The line was drawn:
-![Ooops...! The map is not showing correctly :-(](_images_new/07_polyline_completed.png)
+![Ooops...! The map is not showing correctly :-(](_images/07_polyline_completed.png)
 
 ### What’s happening here
 
@@ -72,11 +79,11 @@ You draw all the water pipes, one after the other.
 
 For example, from the spring source to the first junction or reservoir, as shown in the above image. Then, from the junction to one of the villages reservoir.
 
-![Ooops...! The map is not showing correctly :-(](_images_new/08_tree_of_pathways_undergoing.png)
+![Ooops...! The map is not showing correctly :-(](_images/08_tree_of_pathways_undergoing.png)
 
 Finally, from the junction to the reservoir of the other village reservoir.
 
-![Ooops...! The map is not showing correctly :-(](_images_new/09_tree_of_pathways_completed.png)
+![Ooops...! The map is not showing correctly :-(](_images/09_tree_of_pathways_completed.png)
 
 
 **Once you have completed drawing of the tree of pathways** it is now time to define the amount of water required to be transported by the pipes you just drew.
@@ -89,19 +96,19 @@ You may now define how much water is required at each of the reservoirs.
 
 You can now click the markers to define the amount of water required, but for the first marker (the one of the spring).
 
-![Ooops...! The map is not showing correctly :-(](_images_new/10_demand_defined.png)
+![Ooops...! The map is not showing correctly :-(](_images/10_demand_defined.png)
 
 Enter how many cubic meters are needed at each reservoir. To ease data input, remember that the value of 86, represents one liter per second flowing along the 24 hours.
 
 If you leave one of the demands **empty** that will mean that you do not need water at that point, and the software will consider the point as a junction (under pressure) and not as a reservoir.
 
-![Ooops...! The map is not showing correctly :-(](_images_new/11_demand_null_at_junction.png)
+![Ooops...! The map is not showing correctly :-(](_images/11_demand_null_at_junction.png)
 
 Important!
 
 You must define a demand for the leaves of your water supply, i.e.: for the “leaves” of your tree of trenches. Otherwise, when you will click the "Go to next step" button, you will be prompted a pop-up by those reservoirs left without demand.
 
-![Ooops...! The map is not showing correctly :-(](_images_new/12_demand_missing.png)
+![Ooops...! The map is not showing correctly :-(](_images/12_demand_missing.png)
 
 **Once you have defined the demands** click on the "Forward" button to move to the next step of the wizard.
 
@@ -113,13 +120,11 @@ The unit cost of pipes at present cannot be edited by the user and is inferred f
 
 You will be shown a page with the proposed polyethylene pipes along with the altimetric and hydraulic pressure profiles for each of the branches of your water supply.
 
-If there is no way to carry the water (for example, either the terrain is too flat to carry that amount of water by gravity) then the webapp will inform you that the design failed.
+If there is no way to carry the water (for example, either the terrain is too flat to carry that amount of water by gravity) then the webapp will inform you that the design failed. **Click on the images to see them enlarged**.
 
 | First pathway  | Second pathway | Third pathway |
 | ------------- | ------------- |------------- |
-| ![Ooops...! The map is not showing correctly :-(](_images_new/13_solution_pathway_1.png)  | ![Ooops...! The map is not showing correctly :-(](_images_new/14_solution_pathway_2.png)  | ![Ooops...! The map is not showing correctly :-(](_images_new/15_solution_pathway_3.png) |
-
-Click on the images to see them enlarged.
+| ![Ooops...! The map is not showing correctly :-(](_images/13_solution_pathway_1.png)  | ![Ooops...! The map is not showing correctly :-(](_images/14_solution_pathway_2.png)  | ![Ooops...! The map is not showing correctly :-(](_images/15_solution_pathway_3.png) |
 
 Important
 
