@@ -7,7 +7,7 @@
 This computer software package designs rural water supply schemes. 
 It was conceived with the humanitarian and development interventions in mind.  
 <br/>
-See the **demo**: <http://ruralwater.pythonanywhere.com/> (2019 version)<br/> 
+See the **demo**: <http://ruralwater.pythonanywhere.com/><br/> 
 Clone the **repository**: <https://bitbucket.org/ruralwater/ruralwater/><br/> 
 Read the **documentation**: <https://ruralwater.readthedocs.io/en/dev/><br/> 
 
