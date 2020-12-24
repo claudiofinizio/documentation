@@ -53,6 +53,8 @@ Starting from the water source, connect the various markers with a line that rep
 
 If needed, you can click along the way, while you draw the line, in order to make your water pipe trench bend.
 
+**Important**: you have to draw the line 'following the flow of water': you start the line from the marker water flows from and then you end the line in the marker where water flows to. Failing to do so may result in unpredictable behaviour.
+
 Notice that the line ‘sticks’ to the markers when you move the mouse near a marker. When the line ‘sticks’ to a marker, then you complete drawing the line by double clicking.
 
 Notice that, once you have selected the line icon on the toolbar, then as you move the mouse a red circle appears to the nearest marker to your mouse position. When the red circle appears around the spring, then you click and move the mouse towards another marker to complete the line.
