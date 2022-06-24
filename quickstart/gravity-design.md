@@ -131,6 +131,6 @@ Please note!
 
 The drawings will also show (in green color) the profile at 60 meters above the ground level. If the pressure profile intersects this line, care must be taken to use higher pressure polyethylene pipes. For deeper valleys also the profile at 100 meters above the ground surface will be shown, hinting that even hgher pressure pipes must be used. The improved calculations, which optimize taking in account these higher pressure will be released soon. 
 
-**NB**: the unit costs of polyethylene pipes is inferred from economies of scale. In a future version it will be possible to enter the unit cost of the pipes.
+**NB**: the unit cost of polyethylene pipes is inferred from economies of scale. In a future version it will be possible to enter the unit cost of the pipes.
 
 This completes the use of the webapp in this 2020 version.
